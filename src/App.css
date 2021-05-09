@@ -1,0 +1,43 @@
+.app-position {
+  position: fixed;
+  margin: auto;
+}
+
+.save-button {
+  align-self: center;
+  display: block;
+}
+
+.recipe {
+  display: flex;
+  justify-content: left;
+  margin: 10px;
+}
+
+.save-button {
+  float: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2vh;
+}
+
+.save-button:hover {
+  background-color: lightgrey;
+}
+
+p {
+  font-size: 3vh;
+  float: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin-left: 20px;
+}
+
+img {
+  margin: 10px;
+  min-height: 50px;
+}
