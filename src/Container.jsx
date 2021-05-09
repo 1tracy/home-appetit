@@ -40,7 +40,7 @@ export default class Landing extends React.Component {
             <h1 id='header-title'>Home Appetit</h1>
           <hr id='first-hr'></hr>
           <br></br>
-            <a id='header'>Project GitHub</a>
+            <a id='header' href="https://github.com/1tracy/home-appetit">Project GitHub</a>
           <br></br>
             <span id='header'>Still image detection powered by:</span>
           <br></br>
