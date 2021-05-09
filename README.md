@@ -1,4 +1,6 @@
 # Home Appetit
+View our live demo [here](https://home-appetit.herokuapp.com/)!
+
 ## Built With
 
 * [Tensorflow.js](https://www.npmjs.com/package/@tensorflow/tfjs) - The library for training machine learning models
