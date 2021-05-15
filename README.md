@@ -1,5 +1,5 @@
 # Home Appetit
-View our live demo [here](https://home-appetit.herokuapp.com/)!
+A recipe app that detects produce using your webcam and pulls up relevant recipes that you can make with your ingredients! <!--(https://home-appetit.herokuapp.com/)-->
 
 ## Built With
 
